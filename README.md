@@ -5,6 +5,7 @@ A Yii extension to manage premium videos within Yii. It uses video hosting servi
 
 
 **Build status:** Not ready for use
+**The API used in this project is not yet live. Please register your email at www.vdocipher.com to get notified of our launch.**
 
 Installation Instruction
 ----
@@ -22,7 +23,6 @@ About VdoCipher
 
 Premium video creators often find a large part of their earning drained out by piracy websites and torrents who distribute their videos for free on the internet. VdoCipher brings in a new age DRM technology for affordable video hosting along with content security.
 
-To see what else you can do with Markdown (including **tables**, **images**, **numbered lists**, and more) take a look at the [VdoCipher][1]. And then try it out by typing in this box!
 
 [1]: https://www.vdocipher.com/
 
